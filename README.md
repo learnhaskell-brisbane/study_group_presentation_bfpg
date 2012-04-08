@@ -1,8 +1,4 @@
-Presentation for the BFPG
-=========================
-
-Outline
-=======
+# Presentation for the BFPG
 
 ## Introduction
 * Why we started the group
@@ -14,6 +10,14 @@ Outline
    * Chapter leaders
    * Exercises
 
-## Haskell Snippets
+## Benefits of Learning Haskell
+* Helps you talk the FP talk
+* Understand Java / Scala / JavaScript 
+* Identify patterns eg map-reduce, filter
+* Helps you get the most out of the BFPG
+* Makes abstraction simple
+
+## Sample Code We've Learned
+* Interesting Solutions to Exercises
 
 ## Conclusion
