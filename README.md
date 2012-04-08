@@ -4,16 +4,16 @@ Presentation for the BFPG
 Outline
 =======
 
-## Introduction ##
+## Introduction
 * Why we started the group
 
-## The group ##
+## The group
 * How we started the group
 * The first members
 * How we ran the group
    * Chapter leaders
    * Exercises
 
-## Haskell Snippets ##    
+## Haskell Snippets
 
-## Conclusion ##
+## Conclusion
