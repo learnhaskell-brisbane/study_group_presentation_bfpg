@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1321623258597" ID="ID_1222749359" MODIFIED="1333437617833" TEXT="How to Start a Study Group">
+<node CREATED="1321623258597" ID="ID_1222749359" MODIFIED="1333964612816" TEXT="How to Start a Study Group">
 <node CREATED="1321623268188" ID="ID_91410339" MODIFIED="1321624979964" POSITION="left" TEXT="Find an accomplice">
 <node CREATED="1321623287145" ID="ID_1101652415" MODIFIED="1321623291655" TEXT="2 heads better than one"/>
 <node CREATED="1321623292357" ID="ID_1922850090" MODIFIED="1321623300577" TEXT="share responsibility &amp; workload"/>
@@ -94,6 +94,20 @@
 </node>
 <node CREATED="1333418124027" ID="ID_1872601845" MODIFIED="1333438665090" POSITION="left" TEXT="Drawbacks">
 <node CREATED="1333418126379" ID="ID_1780749468" MODIFIED="1333437557247" TEXT="Hard to balance constant commitment"/>
+</node>
+<node CREATED="1333964341312" ID="ID_1544286754" MODIFIED="1333964347701" POSITION="right" TEXT="The Learning Experience">
+<node CREATED="1333964350383" ID="ID_1457639322" MODIFIED="1333964353668" TEXT="LYAHFGG">
+<node CREATED="1333964355034" ID="ID_1356186150" MODIFIED="1333964375774" TEXT="Introduces Haskell using friendly terminology - a conversational style"/>
+<node CREATED="1333964377331" ID="ID_362226313" MODIFIED="1333964405469" TEXT="Slow walks you to Monads by introducing &quot;easier to understand&quot; concepts">
+<node CREATED="1333964406784" ID="ID_414405718" MODIFIED="1333964408439" TEXT="Functors"/>
+<node CREATED="1333964409353" ID="ID_77328000" MODIFIED="1333964412609" TEXT="Applicative Functors"/>
+<node CREATED="1333964413013" ID="ID_1487650262" MODIFIED="1333964414563" TEXT="Monoids"/>
+<node CREATED="1333964414950" ID="ID_439510335" MODIFIED="1333964416218" TEXT="Monads"/>
+</node>
+<node CREATED="1333964429276" ID="ID_201566242" MODIFIED="1333964439928" TEXT="Still feel like we&apos;re just scratching the surface">
+<node CREATED="1333964595208" ID="ID_1015845358" MODIFIED="1333964605341" TEXT="Staircase of enlightenment analogy"/>
+</node>
+</node>
 </node>
 </node>
 </map>
