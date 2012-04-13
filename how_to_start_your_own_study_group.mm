@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1321623258597" ID="ID_1222749359" MODIFIED="1333964612816" TEXT="How to Start a Study Group">
+<node CREATED="1321623258597" ID="ID_1222749359" MODIFIED="1334319462628" TEXT="Learn You a Haskell as a Great Group">
 <node CREATED="1321623268188" ID="ID_91410339" MODIFIED="1321624979964" POSITION="left" TEXT="Find an accomplice">
 <node CREATED="1321623287145" ID="ID_1101652415" MODIFIED="1321623291655" TEXT="2 heads better than one"/>
 <node CREATED="1321623292357" ID="ID_1922850090" MODIFIED="1321623300577" TEXT="share responsibility &amp; workload"/>
@@ -68,6 +68,7 @@
 <node CREATED="1333436515691" ID="ID_761662564" MODIFIED="1333436523270" TEXT="Weekly Schedule"/>
 <node CREATED="1333437498266" ID="ID_1265098986" MODIFIED="1333437501694" TEXT="Assignments"/>
 </node>
+<node CREATED="1334319011373" ID="ID_1386305487" MODIFIED="1334319430123" TEXT="Can make others &quot;collaborators&quot; - easier than managing push requests"/>
 </node>
 <node CREATED="1321623461598" ID="ID_1924490312" MODIFIED="1333418065824" POSITION="left" TEXT="Get people on board">
 <node CREATED="1321623471481" ID="ID_1559872859" MODIFIED="1321623474528" TEXT="Max 10ppl"/>
