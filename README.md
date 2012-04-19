@@ -5,8 +5,8 @@
 * Inspire people to start a group.
 
 ## Outline
-* Introduction - 5mins
-* The Group - 5mins
+* Introduction - 5mins - Sanj
+* The Group - 5mins - Matt
 ** Chapter Leader Testimonial - 5mins
 * The Book - 5mins
 * The Experience - 5mins
@@ -83,6 +83,7 @@
  * Live hacking sessions (we sometimes do this in the group already)
  * Encourage crowd-sourcing of extra content
 
+ 
 ### The Chapter Leader Experience
 * Chapter Leaders
  * Everyone takes ownership
