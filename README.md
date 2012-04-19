@@ -7,7 +7,7 @@
 ## Outline
 * Introduction - 5mins - Sanj
 * The Group - 5mins - Matt
-** Chapter Leader Testimonial - 5mins
+ * Chapter Leader Testimonial - 5mins
 * The Book - 5mins
 * The Experience - 5mins
 * Conclusion incl Q/A - 5mins
@@ -15,27 +15,26 @@
 
 
 ## Introduction
-* We've been coming to this group on and off for about 4yrs. Want to thank everyone that makes this group what it is, some experienced ppl with collective IQ of... and the newbies fresh and thirsty for functional knowledge, like me, you're the ones that smile and nod at everything Tony says.
 * Why we started the group
-** Motivation (Learning Haskell is hard)
+ * Motivation (Learning Haskell is hard)
 * The problem
-** We don't know enough Haskell to understand the BFPG meetups!
-*** Intimidating for beginners - we didn't want to admit don't know
-*** We were part of a culture amongst FP beginners of pretending to understand (scared to admit you don't know)
-*** Two types of people: Those that had learnt Haskell, those that hadn't. Had to start at lowest common denominator
-** We don't have the moitivation/focus to get all the way through the book without getting distracted.
+ * We don't know enough Haskell to understand the BFPG meetups!
+  * Intimidating for beginners - we didn't want to admit don't know
+  * We were part of a culture amongst FP beginners of pretending to understand (scared to admit you don't know)
+  * Two types of people: Those that had learnt Haskell, those that hadn't. Had to start at lowest common denominator
+ * We don't have the moitivation/focus to get all the way through the book without getting distracted.
 ....
 * October Meetup
-** Let's start a study group!
+ * Let's start a study group!
 * Someone is handing out tickets for our door prize at the end - if you don't want to win a copy of the book don't take a ticket!
 
 
 
 ## The group
 * How we started the group
-** Research, bouncing ideas, talking to experts
-** Meetup
-** Github
+ * Research, bouncing ideas, talking to experts
+ * Meetup
+ * Github
 * Find an accomplice
  * 2 heads better than one
  * share responsibility & workload
@@ -134,17 +133,17 @@ the implementation. Eg. >>=.
 * Advanced Beginners
 * Learning together is fun!
 * Benefits of Learning Haskell
-** Helps you talk the FP talk
-** Understand Java / Scala / JavaScript 
-** Rewires your brain
-** Identify patterns eg map-reduce, filter
-** Converting Haskell to our day-jobs: map-reduce, filter, folds
-** Helps you get the most out of the BFPG
-** Makes abstraction simple
-** Learnt more in-depth as a group than individuals
-** Everyone brings different perspective
-** Tangents: Andrew - Category theory, Javascript monads, Steve - Linux, Clojure, Opensource, Coding By Numbers
-** Identifying, understanding and using side-effects
+ * Helps you talk the FP talk
+ * Understand Java / Scala / JavaScript 
+ * Rewires your brain
+ * Identify patterns eg map-reduce, filter
+ * Converting Haskell to our day-jobs: map-reduce, filter, folds
+ * Helps you get the most out of the BFPG
+ * Makes abstraction simple
+ * Learnt more in-depth as a group than individuals
+ * Everyone brings different perspective
+ * Tangents: Andrew - Category theory, Javascript monads, Steve - Linux, Clojure, Opensource, Coding By Numbers
+ * Identifying, understanding and using side-effects
 * We want to help get you started
  * Ask anyone wearing one of these fashionable lambda shirts about it.
  * Happy to help kickstart your group and connect wannabe Haskellesrs together.
