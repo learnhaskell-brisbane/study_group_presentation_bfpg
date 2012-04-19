@@ -44,7 +44,7 @@
 * Ask for advice
  * We approached OJ to see if we could run a covert functional group in Brisbane...
  * Got some idea from Craig Aspinall 
- * Miran: Online? book? Free PDF!  Feedback, encouragement.
+ * Miran: Online? book? Feedback, encouragement.
 * The first members
 * How we ran the group
  * Make strong decisions up-front
@@ -157,8 +157,3 @@ the implementation. Eg. >>=.
 * Find the winner
 * Hand out the prize!!!
 
-
-
-## Humour
-* Tony Chuck Norris jokes
-* Our next item in our line of apparel is bracelets that say WWTD (What Would Tony Do)
