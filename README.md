@@ -5,13 +5,16 @@
 * Inspire people to start a group.
 
 ## Outline
-* Introduction - 5mins - Sanj
+* Introduction - 2mins - Sanj
 * The Group - 5mins - Matt
- * Chapter Leader Testimonial - 5mins
-* The Book - 5mins
-* The Experience - 5mins
-* Conclusion incl Q/A - 5mins
-* Door Prize - Live code example - 5mins
+ * Chapter Leader Testimonial - 5mins - Katie
+* The Book - 5mins (Who's doing this?)
+* The Experience - 5mins (Who's doing this?)
+* Conclusion incl Q/A - 5mins (Whos's doing this?)
+* Door Prize - Live code example - 5mins - Andrew
+
+* The intro won't take 5 mins. I have reduced it to 2 mins.
+  we can use the extra 3 mins somewhere else.
 
 
 ## Introduction
@@ -23,6 +26,7 @@
   * We were part of a culture amongst FP beginners of pretending to understand (scared to admit you don't know)
   * Two types of people: Those that had learnt Haskell, those that hadn't. Had to start at lowest common denominator
  * We don't have the moitivation/focus to get all the way through the book without getting distracted.
+ * You have to teach yourself. It's hard for someone to teach you Haskell unless you make a start yourself.  
 ....
 * October Meetup
  * Let's start a study group!
